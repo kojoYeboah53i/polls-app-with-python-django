@@ -1,6 +1,14 @@
- # polls-app-with-python-django
 
- app for collection polls on various questions and choices, coded in python with the django framework
+
+<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
+
+
+</p>
+ 
+ ## polls-app-with-python-django
+
+ app for collecting polls on various questions and choices, coded in python with the django framework
 
 
 ## Start
